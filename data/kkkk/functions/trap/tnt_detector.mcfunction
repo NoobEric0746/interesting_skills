@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:tnt"}}] at @s if entity @a[name=kkkk,distance=..5] if entity @e[name=!kkkk,distance=..1,tag=!trap,nbt=!{Item:{id:"minecraft:tnt"}}] run function kkkk:trap/settrap

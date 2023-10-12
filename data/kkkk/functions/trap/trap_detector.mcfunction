@@ -1,0 +1,1 @@
+execute as @e[tag=trap] at @s if entity @e[name=!kkkk,type=!item,distance=..2,tag=!trap] run function kkkk:trap/bomb
