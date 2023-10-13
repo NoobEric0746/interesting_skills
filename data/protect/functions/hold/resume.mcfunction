@@ -1,2 +1,2 @@
-execute as @s if entity @a[name=cpn,distance=6..] at @s run data modify entity @s NoGravity set value false
-execute as @s if entity @a[name=cpn,distance=..5,nbt=!{SelectedItem:{id:"minecraft:shield"}}] at @s run data modify entity @s NoGravity set value false
+execute as @s if entity @a[name=cpn,distance=4..] at @s run data modify entity @s NoGravity set value false
+execute as @s if entity @a[name=cpn,distance=..3,nbt=!{SelectedItem:{id:"minecraft:shield"}}] at @s run data modify entity @s NoGravity set value false
