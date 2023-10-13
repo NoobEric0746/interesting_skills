@@ -8,7 +8,8 @@
 		"sk:fly/chicken_around_detector",
 		"sk:lay/egg_detector",
 		"protect:hold/shield_detector",
-		"protect:hold/resume_detector"
+		"protect:hold/resume_detector",
+		"tnt:tnt_detector"
 
 	]
 }

@@ -1,0 +1,1 @@
+execute as @e[type=tnt] at @s if block ~ ~-1 ~ minecraft:magma_block run function tnt:explode
