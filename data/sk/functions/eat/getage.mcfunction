@@ -1,0 +1,1 @@
+execute store result score @s Age run data get entity @s 
