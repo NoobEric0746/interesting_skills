@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:bone"}}] at @s if entity @a[name=ty,distance=..0.5] run function summon:summon/summon

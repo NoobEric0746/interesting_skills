@@ -9,6 +9,8 @@
 		"sk:lay/egg_detector",
 		"protect:hold/shield_detector",
 		"protect:hold/resume_detector",
+		"summon:summon/bone_detector",
+		"summon:distrap/dog_detector",
 		"tnt:tnt_detector"
 
 	]

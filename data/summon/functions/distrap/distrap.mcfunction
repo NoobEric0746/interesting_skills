@@ -1,0 +1,1 @@
+tag @e[tag=trap,distance=..3] remove trap

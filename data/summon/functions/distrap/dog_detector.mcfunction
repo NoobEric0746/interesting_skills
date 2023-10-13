@@ -1,0 +1,1 @@
+execute as @e[tag=antitrap] at @s run function summon:distrap/distrap
