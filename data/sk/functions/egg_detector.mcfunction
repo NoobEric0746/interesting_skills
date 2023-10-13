@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:egg] at @s if entity @a[name=sk,r=2] run function _the_agent_:trick1/lay_chicken

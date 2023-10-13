@@ -1,0 +1,1 @@
+execute as @a[name="sk"] at @s if entity @e[type=minecraft:chicken,distance=..1] run function sk:fall/antifall
