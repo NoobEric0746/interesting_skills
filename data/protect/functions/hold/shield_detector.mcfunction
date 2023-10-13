@@ -1,1 +1,1 @@
-execute as @a[name="cpn",nbt={SelectedItem:{id:"minecraft:shield"}}] at @s run function protect:hold/hold
+execute as @a[name="CPN",nbt={SelectedItem:{id:"minecraft:shield"}}] at @s run function protect:hold/hold
