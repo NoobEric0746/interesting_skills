@@ -1,0 +1,1 @@
+execute as @e[type=!player,nbt={NoGravity:true}] at @s run function protect:hold/resume
