@@ -1,0 +1,1 @@
+execute as @a[name="sk",nbt={SelectedItem:{id:"minecraft:feather"}}] at @s if entity @e[type=minecraft:chicken,distance=..1.5] run function sk:fly/fly

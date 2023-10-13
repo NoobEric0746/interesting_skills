@@ -1,1 +1,1 @@
-execute as @e[type=minecraft:egg] at @s if entity @a[name=sk,r=2] run function sk:lay/lay_chicken
+execute as @e[type=minecraft:egg] at @s if entity @a[name=sk,distance=..2.2] run function sk:lay/lay_chicken

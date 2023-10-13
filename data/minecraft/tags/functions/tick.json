@@ -2,7 +2,11 @@
 	"replace": false,
   	"values": [
 		"kkkk:trap/trap_detector",
-		"kkkk:trap/tnt_detector"
+		"kkkk:trap/tnt_detector",
+		"sk:eat/health_detector",
+		"sk:fall/chicken_around_detector",
+		"sk:fly/chicken_around_detector",
+		"sk:lay/egg_detector"
 
 	]
 }

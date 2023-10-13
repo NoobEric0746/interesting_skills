@@ -1,1 +1,2 @@
-execute as @e[type=minecraft:egg] at @s if entity @a[name=sk,r=2] run function sk:lay/lay_chicken
+execute as @a[name=sk,scores={Health=1..10}] at @s if entity @e[type=chicken,distance=..5] run function sk:eat/heal
+#execute as @a[name=sk,scores={Health=1..10}] at @s run effect give @s minecraft:instant_health 1 1 true
